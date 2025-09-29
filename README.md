@@ -61,8 +61,7 @@ This workbook dives into the most powerful hurricanes recorded in the Atlantic, 
 
 ## 📌 Key Insights
 
-- Identified top 10 hurricanes by wind speed and damage
-- Flagged trends in storm intensity over time
+- Identified top hurricanes by wind speed and damage
 - Built a reusable framework for future storm data analysis
 
 ---
